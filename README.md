@@ -4,27 +4,21 @@ This is a very basic text-based dungeon game for Introduction to Scripting that
 will involve moving between rooms and collecting items before moving onto the
 final dragon room.
 
-So far I have room movement and item pick up and inventory
-display running.
-
-TODO:
-
-- [ ] Finish rooms, with descriptions and items
-- [ ] Write final room logic
+Project complete enough for now.
 
 ## Constraints
 
-- [ ] There must be a minimum of eight rooms.
-- [ ] Each room must contain one item, with the exception of the “start” room and
+- [x] There must be a minimum of eight rooms.
+- [x] Each room must contain one item, with the exception of the “start” room and
 the room containing the villain.
 - [x] The “start” room is where players will begin their moves and should not
 contain any items.
-- [ ] The room containing the villain should not contain any items.
+- [x] The room containing the villain should not contain any items.
 
 ## Ask myself
 
-- [ ] What are the different steps needed in this program?
-- [ ] How might you outline them in a way that a computer can understand?
+- [x] What are the different steps needed in this program?
+- [x] How might you outline them in a way that a computer can understand?
 - [x] What information would you need from the player at each point (inputs)?
 - [x] What information would you output to the player at each point?
 - [x] When might it be a good idea to use “IF” and “IF ELSE” statements?
